@@ -1,3 +1,5 @@
+**English** | [中文](https://github.com/peerclaw/.github/blob/main/profile/README_zh.md)
+
 # PeerClaw
 
 **The open-source identity & trust platform for AI Agents.**
